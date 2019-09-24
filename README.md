@@ -1,5 +1,5 @@
 # django-models-cw
-
+#### You created the models but did not give them the correct name. You also populated them with data. You did not make the correct amount of items per table. 3/5 Score: 4/8
 ### Exercise 1
 Add a new Dog model to your schema. Give it the fields: name, breed, color, and gender. Name should be a dog name, breed should be dog breed, color should be the color of the dog, and gender should be the gender of the dog.
 
